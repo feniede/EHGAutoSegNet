@@ -41,6 +41,20 @@ Run jupyter notebook. Then, run the example file:
 jupyter notebook
 ```
 
+## Installation in an existing python environment
+
+The package can be installed with the following command:
+
+```bash
+pip install EHGAutoSegNet-main.zip
+```
+
+To use the package withing python:
+
+```bash
+import ehgautosegnet
+```
+
 License
 =======
     Copyright 2013 Mir Ikram Uddin
