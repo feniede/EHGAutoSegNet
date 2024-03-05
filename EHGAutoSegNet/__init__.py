@@ -1,2 +1,2 @@
-from EHGAutoSegNet.signal_processor import *
-from EHGAutoSegNet.signal_post_processor import *
+from ehgautosegnet.signal_processor import *
+from ehgautosegnet.signal_post_processor import *

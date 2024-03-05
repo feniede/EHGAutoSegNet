@@ -1,0 +1,4 @@
+.gitignore
+build/
+ehgautosegnet.egg-info/
+**/.ipynb_checkpoints/
